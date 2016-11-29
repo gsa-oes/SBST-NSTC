@@ -34,27 +34,6 @@ scripts:
     <p>An official website of the U.S. government</p>
   </div>
 
-  <aside id="downloads">
-    <h3>Downloads<span id="caret"></span></h3>
-    <ul>
-      {% for download in page.downloads %}
-      <li>
-        <a href="{{ download.href | prepend: site.baseurl }}">
-          <div class="download-text">
-            <strong>{{ download.text.primary }}</strong>
-            <span>{{ download.text.secondary }}</span>
-          </div>
-          {% if download.image %}
-          <div class="download-image">
-            <img src="{{ download.image.href | prepend: site.baseurl }}" alt="{{ download.image.alt }}">
-          </div>
-          {% endif %}
-        </a>
-      </li>
-      {% endfor %}
-    </ul>
-  </aside>
-
   <div class="container">
     <h1>
       We believe that government works best when it's built for people. 
