@@ -18,8 +18,6 @@ Building on SBST’s first year of results, on September 15th, 2015, President O
 
 ### 2016 
 
-On September 15, 2016, the Social and Behavioral Sciences Team released their second annual report demonstrating measurable progress, in areas ranging from military retirement security to school-meals access for low-income students, in implementing the President's Executive Order, "Using Behavioral Science Insights to Better Serve the Nation.” 
-
 [OSTP Blog from September 15 2016](https://www.whitehouse.gov/blog/2016/09/15/learn-how-behavioral-science-being-used-better-serve-american-people)
 
 [Recording of White House Summit on Behavioral Science Insights](https://www.youtube.com/watch?v=Yfab39tvUv4)
@@ -33,8 +31,6 @@ On September 15, 2016, the Social and Behavioral Sciences Team released their se
 [Implementation Guidance for Executive Order 13707]({{ '/downloads/Executive Order 13707 Implementation Guidance.pdf' | prepend: site.baseurl }})
 
 ### 2015 
-
-On September 15, 2015, President Obama signed an Executive Order directing Federal agencies to use behavioral science insights to better serve the American people. 
 
 [Executive Order on WhiteHouse.gov](https://www.whitehouse.gov/the-press-office/2015/09/15/executive-order-using-behavioral-science-insights-better-serve-american)  
 
