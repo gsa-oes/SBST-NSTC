@@ -22,13 +22,14 @@ Building on SBST’s first year of results, on September 15th, 2015, President O
 
 [Recording of White House Summit on Behavioral Science Insights](https://www.youtube.com/watch?v=Yfab39tvUv4)
 
-[Fact Sheet]({{ '/downloads/2016 Behavioral-Science-EO-Anniversary-Fact-Sheet.pdf' | prepend: site.baseurl }})
+[Fact Sheet]({{ '/download/2016 Behavioral-Science-EO-Anniversary-Fact-Sheet.pdf'}})
 
-[September 15 2016 Event Agenda]({{ '/downloads/SBST 9-15-16 Agenda.pdf' | prepend: site.baseurl }})
+[September 15 2016 Event Agenda]({{ '/download/SBST 9-15-16 Agenda.pdf'}})
 
-[2016 Annual Report]({{ '/downloads/2016 SBST Annual Report.pdf' | prepend: site.baseurl }})
+[2016 Annual Report]({{ '/download/2016 SBST Annual Report.pdf' }}) 
 
-[Implementation Guidance for Executive Order 13707]({{ '/downloads/Executive Order 13707 Implementation Guidance.pdf' | prepend: site.baseurl }})
+
+[Implementation Guidance for Executive Order 13707]({{ '/download/Executive Order 13707 Implementation Guidance.pdf'}})
 
 ### 2015 
 
@@ -38,11 +39,11 @@ Building on SBST’s first year of results, on September 15th, 2015, President O
 
 [Fact Sheet](https://www.whitehouse.gov/the-press-office/2015/09/15/fact-sheet-president-obama-signs-executive-order-white-house-announces)
 
-[September 15 2015 Event Agenda]({{ '/downloads/SBST 9-15-15 Agenda.pdf' | prepend: site.baseurl }})
+[September 15 2015 Event Agenda]({{ '/download/SBST 9-15-15 Agenda.pdf'}})
 
-[SBST 2015 Annual Report]({{ '/downloads/2015 SBST Annual Report.pdf' | prepend: site.baseurl }})
+[SBST 2015 Annual Report]({{ '/download/2015 SBST Annual Report.pdf'}})
 
-[SBST 2015 Executive Summary]({{ '/downloads/2015-exec-summary.pdf' | prepend: site.baseurl }})
+[SBST 2015 Executive Summary]({{ '/download/2015-exec-summary.pdf'}})
 
 [OSTP Blog from September 15 2015](https://www.whitehouse.gov/blog/2015/09/15/designing-federal-programs-american-people-mind)
 
