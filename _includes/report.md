@@ -22,7 +22,7 @@ Building on SBST’s first year of results, on September 15th, 2015, President O
 
 [Recording of White House Summit on Behavioral Science Insights](https://www.youtube.com/watch?v=Yfab39tvUv4)
 
-[Fact Sheet]({{ '/download/2016 Behavioral-Science-EO-Anniversary-Fact-Sheet.pdf'}})
+[Fact Sheet]({{ '/download/2016 Behavioral-Science-EO-Anniversary-Fact-Sheet.pdf' | prepend: site.baseurl }})
 
 [September 15 2016 Event Agenda]({{ '/download/SBST 9-15-16 Agenda.pdf'}})
 
