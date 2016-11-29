@@ -1,5 +1,3 @@
-We believe that government works best when it’s designed from the perspective of the American people.
-
 Accessing and using programs should be intuitive. Information and choices among program options should be clear. Forms should be simple and easy to complete.
 
 Behavioral science provides us with tools for designing the kind of government Americans deserve.
