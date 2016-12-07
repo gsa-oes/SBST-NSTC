@@ -1,8 +1,8 @@
-This is an [open source] work by [18F]. As a work of the United States government,
+This is an [open source] work. As a work of the United States government,
 it is in the [public domain][license].
 
-[![18F]({{ site.baseurl }}/img/logos/18f-black.svg)][18F]
+[![SBST]({{ site.baseurl }}/img/icons/About SBST.svg)][SBST]
 
-[18F]: https://18f.gsa.gov
-[open source]: https://github.com/18F/federalist-landing-page-template
-[license]: https://github.com/18F/federalist-landing-page-template/blob/master/LICENSE
+[18F]: https://sbst.gov
+[open source]: https://github.com/us-federal-sbst/SBST-NSTC
+[license]: https://github.com/us-federal-sbst/SBST-NSTC/blob/master/LICENSE
