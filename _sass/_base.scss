@@ -178,7 +178,7 @@ nav {
   }
 
   a:hover {
-    color: $white;
+    color: rgba (250, 86, 70, 1); 
     text-decoration: none;
   }
 }
@@ -243,7 +243,8 @@ aside {
   }
 
   @media all and (max-width: $mobile-width) {
-    background-color: $blue;
+    
+    background-color: rgba(249, 131,74, 1) ;
     margin-bottom: -1px;
     padding: 2em 0;
     position: relative;
@@ -350,20 +351,20 @@ aside {
 }
 
 #report h1 {
-  border-color: $red;
+  border-color: rgba(250, 86, 70, 1);
 
   &::after {
     background-image: url($graph-icon);
-    border-color: $red;
+    border-color: rgba(250, 86, 70, 1);
   }
 }
 
 #contact h1 {
-  border-color: $green;
+  border-color: rgba(250, 86, 70, 1);
 
   &::after {
     background-image: url($mail-icon);
-    border-color: $green;
+    border-color: rgba(250, 86, 70, 1);
   }
 }
 
