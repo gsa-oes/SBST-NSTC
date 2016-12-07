@@ -172,13 +172,13 @@ nav {
   a:link,
   a:hover,
   a:visited {
-    color: rgba (249, 131, 74, 1); 
+    rgba(255, 255, 255, 1); 
     font-size: .8em;
     letter-spacing: .1em;
   }
 
   a:hover {
-    color: rgba (250, 86, 70, 1); 
+    rgba(255, 255, 255, 1);
     text-decoration: none;
   }
 }
@@ -344,10 +344,7 @@ aside {
 #work h1 {
   border-color: rgba(250, 86, 70, 1);
 
-  &::after {
-    background-image: url($cloud-icon);
-    border-color: rgba(250, 86, 70, 1);
-  }
+
 }
 
 #report h1 {
