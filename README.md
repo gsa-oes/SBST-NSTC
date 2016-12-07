@@ -1,6 +1,4 @@
-# federalist-landing-page-template
+# sbst.gov homepage
 [Federalist](https://federalist.18f.gov) is an open source web publishing platform for the United States federal government. It provides templates for websites, an online editor for maintaining content, and cloud-based infrastructure for high-scale, low-cost website hosting.
 
-The team at 18F builds and maintains it as a hosted service available to federal government agencies.
-
-Using a site like this, you can host a landing page for a report, information about a new program, or ways the public can get in touch.
+This is a GitHub repo for a Federalist-hosted website for the Social and Behavioral Sciences Team (SBST), a subcommittee of the National Science and Technology Council.
