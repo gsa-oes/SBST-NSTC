@@ -5,14 +5,18 @@ Building on SBST’s first year of results, on September 15th, 2015, President O
 
 
 * ### Second Annual Report - 2016
-  {: .clipboard-icon }
+  {: .federal-icon }
 
   The 2016 Annual Report presents the results of completed projects and describes ongoing efforts in eight key policy areas: promoting retirement security, advancing economic opportunity, improving college access and affordability, responding to climate change, supporting criminal justice reform, assisting job seekers, helping families get health coverage and stay healthy, and improving the effectiveness and efficiency of Government operations.
+  
+ [View 2016 Annual Report]({{site.baseurl}}/download/2016 SBST Annual Report.pdf)
 
 * ### First Annual Report - 2015
   {: .federal-icon }
 
   As a result of SBST projects in 2015, more Servicemembers are saving for retirement, more students are going to college and better managing their student loans, more Veterans are taking advantage of education and career counseling benefits, more small farms are gaining access to credit, and more families are securing health insurance coverage. And improvements in government program integrity and efficiency are saving taxpayer dollars.
+  
+  [View 2015 Annual Report]({{site.baseurl}}/download/2015 SBST Annual Report.pdf) 
 
 ## Resources
 
@@ -26,8 +30,6 @@ Building on SBST’s first year of results, on September 15th, 2015, President O
 
 [September 15 2016 Event Agenda]({{site.baseurl}}/download/SBST 9-15-16 Agenda.pdf)
 
-[2016 Annual Report]({{site.baseurl}}/download/2016 SBST Annual Report.pdf)
-
 [Implementation Guidance for Executive Order 13707]({{site.baseurl}}/download/Executive Order 13707 Implementation Guidance.pdf)
 
 ### 2015
@@ -39,8 +41,6 @@ Building on SBST’s first year of results, on September 15th, 2015, President O
 [Fact Sheet](https://www.whitehouse.gov/the-press-office/2015/09/15/fact-sheet-president-obama-signs-executive-order-white-house-announces)
 
 [September 15 2015 Event Agenda]({{site.baseurl}}/download/SBST 9-15-15 Agenda.pdf)
-
-[SBST 2015 Annual Report]({{site.baseurl}}/download/2015 SBST Annual Report.pdf)
 
 [SBST 2015 Executive Summary]({{site.baseurl}}/download/2015-exec-summary.pdf)
 
