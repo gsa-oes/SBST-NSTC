@@ -244,7 +244,7 @@ aside {
 
   @media all and (max-width: $mobile-width) {
     
-    background-color: rgba(249, 131,74, 1) ;
+    background-color: rgba(249, 131, 74, 1) ;
     margin-bottom: -1px;
     padding: 2em 0;
     position: relative;
@@ -342,11 +342,11 @@ aside {
 }
 
 #work h1 {
-  border-color: $blue;
+  border-color: rgba(250, 86, 70, 1);
 
   &::after {
     background-image: url($cloud-icon);
-    border-color: $blue;
+    border-color: rgba(250, 86, 70, 1);
   }
 }
 
@@ -407,7 +407,7 @@ section .container {
         display: block;
         width: $icon-size;
         height: $icon-size;
-        background-color: $blue;
+        background-color: rgba(250, 86, 70, 1);
         background-position: center;
         background-repeat: no-repeat;
         background-size: auto 65%;
@@ -547,13 +547,13 @@ section .container {
 }
 
 footer {
-  background: $dark-gray;
+  background: rgba(46, 154, 196, 1);
   color: $white;
   text-align: center;
 
   a:link,
   a:visited {
-    color: $green;
+    color: rgba(249, 131, 74, 1);
   }
 
   & > a {
