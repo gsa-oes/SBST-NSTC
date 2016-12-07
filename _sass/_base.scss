@@ -343,7 +343,11 @@ aside {
 
 #work h1 {
   border-color: rgba(250, 86, 70, 1);
-
+  
+  &::after {
+    background-image: url($cloud-icon);
+    border-color: rgba(250, 86, 70, 1);
+  }
 
 }
 
