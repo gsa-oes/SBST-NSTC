@@ -97,8 +97,8 @@ header {
   }
 
   .flag-container {
-    background-color: $medium-blue;
-    color: rgba(46, 154, 196, .8);
+    background-color: rgba(46, 154, 196, .8);
+    color: rgba(255, 255, 255, 1);
     display: flex;
     flex-direction: row-reverse;
     justify-content: center;
@@ -145,7 +145,7 @@ header {
 
 nav {
   background: #000;
-  background: rgba(46, 154, 196, .8);
+  background: rgba(255, 255, 255, 1);
   position: relative;
 
   @media all and (max-width: $mobile-width) {
