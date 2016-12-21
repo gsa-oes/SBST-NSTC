@@ -345,7 +345,7 @@ aside {
   border-color: rgba(250, 86, 70, 1);
  
   &::after {
-    background-image: url($cloud-icon);
+    background-image: url($sbst-icon);
     border-color: rgba(250, 86, 70, 1);
   }
 }
@@ -354,7 +354,7 @@ aside {
   border-color: rgba(250, 86, 70, 1);
 
   &::after {
-    background-image: url($graph-icon);
+    background-image: url($search-icon);
     border-color: rgba(250, 86, 70, 1);
   }
 }
