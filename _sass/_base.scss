@@ -1,4 +1,5 @@
 @import 'variables';
+@import 'icons';
 
 html,
 body,
@@ -342,29 +343,29 @@ aside {
 }
 
 #work h1 {
-  border-color: rgba(250, 86, 70, 1);
+  border-color: $red;
  
   &::after {
-    background-image: url($serve-icon);
-    border-color: rgba(250, 86, 70, 1);
+    @include icon(serve, $red);
+    border-color: $red;
   }
 }
 
 #report h1 {
-  border-color: rgba(250, 86, 70, 1);
+  border-color: $red;
 
   &::after {
-    background-image: url($search-icon);
-    border-color: rgba(250, 86, 70, 1);
+    @include icon(search, $red);
+    border-color: $red;
   }
 }
 
 #contact h1 {
-  border-color: rgba(250, 86, 70, 1);
+  border-color: $red;
 
   &::after {
-    background-image: url($mail-icon);
-    border-color: rgba(250, 86, 70, 1);
+    @include icon(mail, $red);
+    border-color: $red;
   }
 }
 
@@ -407,7 +408,6 @@ section .container {
         display: block;
         width: $icon-size;
         height: $icon-size;
-        background-color: rgba(250, 86, 70, 1);
         background-position: center;
         background-repeat: no-repeat;
         background-size: auto 65%;
@@ -417,19 +417,19 @@ section .container {
       }
 
       &.clipboard-icon::before {
-        background-image: url($clipboard-icon);
+        @include icon(clipboard, $red);
       }
 
       &.federal-icon::before {
-        background-image: url($federal-icon);
+        @include icon(federal, $red);
       }
 
       &.search-icon::before {
-        background-image: url($search-icon);
+        @include icon(search, $red);
       }
 
       &.serve-icon::before {
-        background-image: url($serve-icon);
+        @include icon(serve, $red);
       }
     }
   }
