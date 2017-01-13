@@ -19,7 +19,9 @@ Building on SBST’s first year of results, on September 15th, 2015, President O
 
 [2016 Annual Report]({{site.baseurl}}/download/2016 SBST Annual Report.pdf)
 
-[OSTP Blog from September 15 2016](https://www.whitehouse.gov/blog/2016/09/15/learn-how-behavioral-science-being-used-better-serve-american-people)
+[2016 Abstracts]({{site.baseurl}}/download/2016 Abstracts.pdf)
+
+[OSTP Blog from September 15 2016]({{site.baseurl}}/download/OSTP Blog Sept 15 2016.pdf)
 
 [Recording of White House Summit on Behavioral Science Insights](https://www.youtube.com/watch?v=Yfab39tvUv4)
 
@@ -33,18 +35,18 @@ Building on SBST’s first year of results, on September 15th, 2015, President O
 
 [2015 Annual Report]({{site.baseurl}}/download/2015 SBST Annual Report.pdf) 
 
-[Executive Order on WhiteHouse.gov](https://www.whitehouse.gov/the-press-office/2015/09/15/executive-order-using-behavioral-science-insights-better-serve-american)  
+[Executive Order on WhiteHouse.gov]({{site.baseurl}}/download/EO 13707 on White House.pdf)
 
 [Executive Order in Federal Register](https://www.federalregister.gov/articles/2015/09/18/2015-23630/using-behavioral-science-insights-to-better-serve-the-american-people)
 
-[Fact Sheet](https://www.whitehouse.gov/the-press-office/2015/09/15/fact-sheet-president-obama-signs-executive-order-white-house-announces)
+[Fact Sheet]({{site.baseurl}}/download/2015 Fact Sheet.pdf)
 
 [September 15 2015 Event Agenda]({{site.baseurl}}/download/SBST 9-15-15 Agenda.pdf)
 
 [SBST 2015 Executive Summary]({{site.baseurl}}/download/2015-exec-summary.pdf)
 
-[OSTP Blog from September 15 2015](https://www.whitehouse.gov/blog/2015/09/15/designing-federal-programs-american-people-mind)
+[OSTP Blog from September 15 2015]({{site.baseurl}}/download/OSTP Blog Sept 15 2015.pdf)
 
-[OSTP Blog from February 9 2015](https://www.whitehouse.gov/blog/2015/02/09/behavioral-science-insights-make-government-more-effective-simpler-and-more-user-fri)
+[OSTP Blog from February 9 2015]({{site.baseurl}}/download/OSTP Blog Feb 9 2016.pdf)
 
 [OIRA / OSTP Forms Guidance](https://www.whitehouse.gov/sites/default/files/omb/inforeg/memos/2015/behavioral-science-insights-and-federal-forms.pdf)
