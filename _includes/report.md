@@ -47,6 +47,6 @@ Building on SBST’s first year of results, on September 15th, 2015, President O
 
 [OSTP Blog from September 15 2015]({{site.baseurl}}/download/OSTP Blog Sept 15 2015.pdf)
 
-[OSTP Blog from February 9 2015]({{site.baseurl}}/download/OSTP Blog Feb 9 2016.pdf)
+[OSTP Blog from February 9 2015]({{site.baseurl}}/download/OSTP Blog Feb 9 2015.pdf)
 
 [OIRA / OSTP Forms Guidance]({{site.baseurl}}/download/OSTP OIRA Federal Forms.pdf)
