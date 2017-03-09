@@ -60,6 +60,22 @@ h1 {
   margin: 0;
 }
 
+#banner {
+  padding: 1em;
+
+  p {
+    margin: 0 auto;
+    max-width: 800px;
+    position: relative;
+
+    img {
+      position: relative;
+      top: -2px;
+      vertical-align: middle;
+    }
+  }
+}
+
 header {
   background-color: $dark-blue;
   background-image: url(../img/potus.jpg);
