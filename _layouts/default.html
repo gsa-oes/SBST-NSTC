@@ -5,7 +5,35 @@
 
   <body>
 
+    <header>
+      <div class="flag-container">
+        <a href="https://18f.gsa.gov">
+          <img class="usa-flag" src="img/us_flag_large.png">
+        </a>
+        <p>An official website of the U.S. government</p>
+      </div>
+      <div class="container">
+        <!-- this creates the vertical whitespace in the header -->
+      </div>
+      {% if page.sections %}
+      <nav>
+        <ul class="container">
+        {% for section in page.sections %}
+          <li><a href="#{{ section.id }}">{{ section.title }}</a></li>
+        {% endfor %}
+        </ul>
+      </nav>
+      {% endif %}
+    </header>
+
     {{ content }}
+
+    <footer>
+      <div class="container">
+        {% capture footer %}{% include footer.md %}{% endcapture %}
+        {{ footer | markdownify }}
+      </div>
+    </footer>
 
     {% include scripts.html %}
 

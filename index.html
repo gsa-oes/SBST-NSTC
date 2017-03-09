@@ -17,36 +17,6 @@ scripts:
 - main.js
 ---
 
-<!-- - href: https://www.google.com
-  text:
-    primary: View the presentation
-    secondary: Google Slides
-  image:
-    href: /img/report-cover.png
-    alt: report cover -->
-
-<header>
-
-  <div class="flag-container">
-    <a href="https://18f.gsa.gov">
-      <img class="usa-flag" src="img/us_flag_large.png">
-    </a>
-    <p>An official website of the U.S. government</p>
-  </div>
-
-  <div class="container">
-  
-  </div>
-  <nav>
-    <ul class="container">
-    {% for section in page.sections %}
-      <li><a href="#{{ section.id }}">{{ section.title }}</a></li>
-    {% endfor %}
-    </ul>
-  </nav>
-  
-</header>
-
 <main>
   {% for section in page.sections %}
   <section id="{{ section.id }}">
@@ -58,10 +28,3 @@ scripts:
   </section>
   {% endfor %}
 </main>
-
-<footer>
-  <div class="container">
-    {% capture footer %}{% include footer.md %}{% endcapture %}
-    {{ footer | markdownify }}
-  </div>
-</footer>
