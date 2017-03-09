@@ -112,7 +112,7 @@ header {
 
 nav {
   background: #000;
-  background: rgba(46, 154, 196, .8);
+  background: $slighty-transparent-blue;
   position: relative;
 
   @media all and (max-width: $mobile-width) {
@@ -514,13 +514,13 @@ section .container {
 }
 
 footer {
-  background: rgba(46, 154, 196, 1);
+  background: $medium-blue;
   color: $white;
   text-align: center;
 
   a:link,
   a:visited {
-    color: rgba(250, 86, 70, 1);
+    color: $white;
   }
 
   & > a {
