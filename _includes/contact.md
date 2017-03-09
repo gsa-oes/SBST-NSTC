@@ -1,6 +1,7 @@
 Thanks for stopping by! We hope you found the information you were looking for. 
 
-To learn more about the NSTC, please visit their site [here](https://www.whitehouse.gov/administration/eop/ostp/nstc).
+To learn more about the NSTC, please visit their site [here](https://www.obamawhitehouse.gov/administration/eop/ostp/nstc).
 
-To learn more about the NSTC Committee on Technology, and view the SBST charter, please visit their site [here](https://www.whitehouse.gov/administration/eop/ostp/nstc/committees/cot).
+To learn more about the NSTC Committee on Technology, and view the SBST charter, please visit their site [here](https://obamawhitehouse.archives.gov/administration/eop/ostp/nstc/committees/cot).
 
+Note: The SBST expires in early 2017. This is historical material “frozen in time”. The website is no longer updated.
