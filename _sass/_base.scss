@@ -108,52 +108,6 @@ header {
       }
     }
   }
-
-  .flag-container {
-    background-color: rgba(46, 154, 196, .8);
-    color: rgba(255, 255, 255, 1);
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: center;
-    padding: 0.625em 1.875em;
-
-    font-family: Lato, "Helvetica Neue", Helvetica, arial, sans-serif;
-    font-size: 14px;
-    font-weight: 200;
-
-    img {
-      height: 12px;
-      width: 19px;
-    }
-
-    p {
-      font-size: .8em;
-      font-weight: 100;
-      margin: .1em;
-      margin-right: 1em;
-    }
-
-    @media all and (min-width: 1200px) {
-      background-color: transparent;
-      bottom: 2em;
-      position: absolute;
-      right: 2em;
-      z-index: 2;
-
-      img {
-        height: 16px;
-        width: 26px;
-      }
-
-      a:hover + p {
-        visibility: visible;
-      }
-
-      p {
-        visibility: hidden;
-      }
-    }
-  }
 }
 
 nav {
