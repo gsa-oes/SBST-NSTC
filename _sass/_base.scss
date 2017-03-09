@@ -82,14 +82,11 @@ header {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+  padding-top: 0;
   position: relative;
 
-  & > .container {
-    padding: 2em 0;
-
-    @media all and (max-width:$mobile-width) {
-      padding: 0;
-    }
+  @media all and (min-width: ($mobile-width + 1px)) {
+    padding-top: 14em;
   }
 
   h1 {
