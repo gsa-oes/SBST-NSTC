@@ -1,4 +1,4 @@
-[Note: This is historical material “frozen in time”. The website is no longer updated.]
+[Note: This is historical material “frozen in time” on Jan. 20th, 2017. The website is no longer updated.]
 
 Accessing and using programs should be intuitive. Information and choices among program options should be clear. Forms should be simple and easy to complete.
 
