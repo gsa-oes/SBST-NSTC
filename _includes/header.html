@@ -1,0 +1,20 @@
+<div id="banner" role="banner">
+  <p>
+    <img src="{{ site.baseurl }}/img/us_flag_large.png">
+    An official website of the U.S. government.<br>
+    <strong>This is historical material “frozen in time” on January 20, 2017.
+    This website will no longer be updated.</strong>
+  </p>
+</div>
+
+<header>
+  {% if page.sections %}
+  <nav>
+    <ul class="container">
+    {% for section in page.sections %}
+      <li><a href="#{{ section.id }}">{{ section.title }}</a></li>
+    {% endfor %}
+    </ul>
+  </nav>
+  {% endif %}
+</header>

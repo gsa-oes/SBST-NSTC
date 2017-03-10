@@ -5,7 +5,16 @@
 
   <body>
 
+    {% include header.html %}
+
     {{ content }}
+
+    <footer>
+      <div class="container">
+        {% capture footer %}{% include footer.md %}{% endcapture %}
+        {{ footer | markdownify }}
+      </div>
+    </footer>
 
     {% include scripts.html %}
 

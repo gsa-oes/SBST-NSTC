@@ -1,5 +1,6 @@
 ---
 layout: default
+
 sections:
 - id: work
   title: About SBST
@@ -8,47 +9,9 @@ sections:
 - id: contact
   title: Contact Us
 
-header_icons:
-  - cloud
-  - sun
-  - graph
-
 scripts:
 - main.js
 ---
-
-<!-- - href: https://www.google.com
-  text:
-    primary: View the presentation
-    secondary: Google Slides
-  image:
-    href: /img/report-cover.png
-    alt: report cover -->
-
-<header>
-
-  <div class="flag-container">
-    <a href="https://18f.gsa.gov">
-      <img class="usa-flag" src="img/us_flag_large.png">
-    </a>
-    <p>An official website of the U.S. government</p>
-  </div>
-
-  <div class="container">
-  
-  </div>
-  <nav>
-    <ul class="container">
-    {% for section in page.sections %}
-      <li><a href="#{{ section.id }}">{{ section.title }}</a></li>
-    {% endfor %}
-    </ul>
-  </nav>
-  
-  <!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. -->
-<script async type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NSTC" id="_fed_an_ua_tag"></script>
-  
-</header>
 
 <main>
   {% for section in page.sections %}
@@ -61,10 +24,3 @@ scripts:
   </section>
   {% endfor %}
 </main>
-
-<footer>
-  <div class="container">
-    {% capture footer %}{% include footer.md %}{% endcapture %}
-    {{ footer | markdownify }}
-  </div>
-</footer>

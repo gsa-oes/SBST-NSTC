@@ -3,10 +3,10 @@ $red: #ef5c49;
 $green: #c2ec70;
 $white: #fff;
 $black: #000;
-$slighty-transparent-blue: transparentize($blue, .07);
 $medium-blue: #017BB3; // flag bar background on smaller devices
 $dark-gray: #374b54;
 $dark-blue: #1d325d;
+$slighty-transparent-blue: transparentize($medium-blue, .2);
 
 $left-gutter: 18rem;
 $right-gutter: $left-gutter;
