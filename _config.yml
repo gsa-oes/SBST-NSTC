@@ -8,6 +8,14 @@
 # Site settings
 title: SBST
 
+# DAP Settings
+analytics:
+  google:
+    code: 'UA-67580537-2' 
+  dap:
+    agency: GSA
+    subagency: OES
+
 email: ''
 
 # Exclude files
