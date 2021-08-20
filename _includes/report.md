@@ -38,7 +38,7 @@ Building on SBST’s first year of results, on September 15th, 2015, President O
 
 <a href="https://github.com/gsa-oes/SBST-NSTC/blob/master/download/EO%2013707%20on%20White%20House.pdf">Executive Order on WhiteHouse.gov</a>
 
-Executive Order in Federal Register](https://www.federalregister.gov/articles/2015/09/18/2015-23630/using-behavioral-science-insights-to-better-serve-the-american-people)
+[Executive Order in Federal Register](https://www.federalregister.gov/articles/2015/09/18/2015-23630/using-behavioral-science-insights-to-better-serve-the-american-people)
 
 <a href="https://github.com/gsa-oes/SBST-NSTC/blob/master/download/2015%20Fact%20Sheet.pdf">Fact Sheet</a>
 
@@ -46,7 +46,7 @@ Executive Order in Federal Register](https://www.federalregister.gov/articles/20
 
 <a href="https://github.com/gsa-oes/SBST-NSTC/blob/master/download/2015-exec-summary.pdf">SBST 2015 Executive Summary</a>
 
-<a href="https://github.com/gsa-oes/SBST-NSTC/blob/master/download/OSTP%20Blog%20Sept%2015%202015.pdf"OSTP Blog from September 15 2015</a>
+<a href="https://github.com/gsa-oes/SBST-NSTC/blob/master/download/OSTP%20Blog%20Sept%2015%202015.pdf">OSTP Blog from September 15 2015</a>
 
 <a href="https://github.com/gsa-oes/SBST-NSTC/blob/master/download/OSTP%20Blog%20Feb%209%202015.pdf">OSTP Blog from February 9 2015</a>
 
