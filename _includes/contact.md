@@ -1,4 +1,4 @@
-Thanks for stopping by! We hope you found the information you were looking for. 
+Thanks for stopping by! We hope you found the information you were looking for.
 
 To learn more about the NSTC, please visit their site [here](https://www.obamawhitehouse.gov/administration/eop/ostp/nstc).
 
